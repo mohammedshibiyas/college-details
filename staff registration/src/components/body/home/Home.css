@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Montserrat:wght@300&family=Poppins:wght@200;500&display=swap');
+
+
+body{
+  
+}
+h1{
+    color: white;
+}
+.admin{
+    text-align: center;
+  
+    margin-top: 20px;
+}
+.admin button{
+    padding: 10px 30px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 15px;
+    color :white;
+    font-family:sans-serif;
+    background-color: rgb(96, 184, 96);
+    font-family: 'Poppins', sans-serif;
+}               
+#type{
+    text-align: center;
+    margin-top: 3%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}

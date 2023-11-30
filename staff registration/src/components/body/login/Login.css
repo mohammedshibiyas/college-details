@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Montserrat:wght@300&family=Poppins:wght@200;500&display=swap');
+
+.user{
+   
+    margin-top: 2%;
+    
+}
+.user input{
+    /* padding: 15px 60px ; */
+    padding-left: 30px;
+    width: 20%;
+    border-radius: 10px;
+    height: 40px;
+}
+.user input::placeholder{
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.loginpage{
+    text-align: center;
+    margin-top: 15%;
+   
+    width: 100%;
+}
+.login button{
+    margin-top: 2%;
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+padding: 10px 40px;
+background-color:  rgb(116, 195, 116);
+border: none;
+font-size: 15px;
+color: white;
+}
+.loginpage h3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
